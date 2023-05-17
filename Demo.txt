@@ -1,0 +1,6 @@
+git version: git version 2.36.1.windows.1
+
+
+1.you have to create main Repository as Demo_Main_Repo
+2.you have to add this text file in your main repository as Demo.txt
+3.
